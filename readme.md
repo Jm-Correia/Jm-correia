@@ -42,10 +42,13 @@
 </a>
 
 <br />
+<br />
+
 <a href="https://github.com/Jm-Correia/project-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jm-correia&repo=project-template&theme=gruvbox" />
 </a> 
 
+<br />
 <br />
 
 <a href="https://github.com/Jm-Correia/DesignPatterns">
@@ -53,16 +56,20 @@
 </a> 
 
 <br />
+<br />
+
 <a href="https://github.com/Jm-Correia/oxeBoraFazerFeiraBoraBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jm-correia&repo=oxeBoraFazerFeiraBoraBot&theme=gruvbox" />
 </a> 
 
+<br />
 <br />
 
 <a href="https://github.com/Jm-Correia/studies-reactjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jm-correia&repo=studies-reactjs&theme=gruvbox" />
 </a> 
 
+<br />
 <br />
 
 ---
