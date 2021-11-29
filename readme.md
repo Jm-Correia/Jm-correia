@@ -9,9 +9,11 @@
 - ⚡ Fun fact: I love to drink coffee anytime and cooking typical Brazilian food. 🤣🤣🤣
 
 ### Connect with me:
+<a href="https://www.linkedin.com/in/joaomarcoscorreia/" target="_blank">
+<img align="left" alt="JM-Correia | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 <br />
 
 ### Languages and Tools:
@@ -97,4 +99,3 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/joaomarcoscorreia/
